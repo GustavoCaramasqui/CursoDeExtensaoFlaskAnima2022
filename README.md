@@ -1,1 +1,0 @@
-# CursoDeExtensaoFlaskAnima2022
